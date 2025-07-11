@@ -29,7 +29,6 @@ lines between personal and professional life, and many users
 are uncomfortable using a single platform for all interactions.
 Therefore, we propose the development of a private messaging
 application designed specifically for targeted communication,
-This work was funded by Your Funding Source under grant No. 12345.
 allowing users to create a distinct space for work or other
 specific purposes, thereby avoiding the inconvenience of
 content mixing and digital noise.
